@@ -2,7 +2,7 @@
 Realizado por Melisa Mendizabal para la clase de Redes
 
 ## Instrucciones y contenido
-###Imagen 1: Un mapa mental sobre IP con los conceptos:
+### Imagen 1: Un mapa mental sobre IP con los conceptos:
 
 Subred y Máscara de Subred
 Clases de IPv4
